@@ -1,0 +1,10 @@
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\bin\Debug\LakoparkProjekt.exe.config
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\bin\Debug\LakoparkProjekt.exe
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\bin\Debug\LakoparkProjekt.pdb
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.csprojAssemblyReference.cache
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.Form1.resources
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.Properties.Resources.resources
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.csproj.GenerateResource.cache
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.csproj.CoreCompileInputs.cache
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.exe
+C:\Users\anone\Desktop\lakopark\LakoparkProjekt\LakoparkProjekt\obj\Debug\LakoparkProjekt.pdb
